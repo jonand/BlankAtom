@@ -70,3 +70,17 @@
    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
    at Squirrel.Update.Program.<Download>d__56.MoveNext()<---
 
+2015-08-25 10:57:21> Program: Starting Squirrel Updater: --processStart atom.exe
+2015-08-25 10:57:22> Program: Want to launch 'C:\Users\IEUser\AppData\Local\atom\app-1.0.7\atom.exe'
+2015-08-25 10:57:22> Program: About to launch: 'C:\Users\IEUser\AppData\Local\atom\app-1.0.7\atom.exe': 
+2015-08-25 10:57:26> Program: Starting Squirrel Updater: --download https://atom.io/api/updates
+2015-08-25 10:57:26> Program: Fetching update information, downloading from https://atom.io/api/updates
+2015-08-25 10:57:26> CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates
+2015-08-25 10:57:26> FileDownloader: Downloading url: https://atom.io/api/updates/RELEASES
+2015-08-25 13:52:33> Program: Starting Squirrel Updater: --processStart atom.exe
+2015-08-25 13:52:33> Program: Want to launch 'C:\Users\IEUser\AppData\Local\atom\app-1.0.7\atom.exe'
+2015-08-25 13:52:33> Program: About to launch: 'C:\Users\IEUser\AppData\Local\atom\app-1.0.7\atom.exe': 
+2015-08-25 13:52:35> Program: Starting Squirrel Updater: --download https://atom.io/api/updates
+2015-08-25 13:52:35> Program: Fetching update information, downloading from https://atom.io/api/updates
+2015-08-25 13:52:36> CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates
+2015-08-25 13:52:36> FileDownloader: Downloading url: https://atom.io/api/updates/RELEASES
